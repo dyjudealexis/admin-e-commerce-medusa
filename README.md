@@ -15,8 +15,8 @@ A modern admin dashboard for managing products, orders, and customers in an e-co
 ## 🔐 Demo Credentials
 
 You can explore the admin dashboard using the following demo credentials:
-Email: demoaccount@example.com
-Password: demoaccount123
+- Email: demoaccount@example.com
+- Password: demoaccount123
 
 > **Note:** Please use a secure environment and change the credentials for production.
 
