@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Admin
 
-A modern admin dashboard for managing products, orders, and customers in an e-commerce platform powered by Medusa.js.
+A modern admin dashboard for managing products, orders, and customers in an e-commerce platform powered by Medusa.js, developed by Jude Alexis Dy.
 
 ## 🚀 Features
 
